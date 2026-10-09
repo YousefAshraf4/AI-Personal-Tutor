@@ -94,7 +94,7 @@ Add your screenshots or demo video here, for example:
 * A generated tutorial with its example
 * The quiz with scoring and feedback
 * The Tutor Memory Log tab
-* An off-topic search being rejected (e.g., "biology" on a cloud computing PDF)
+* An off-topic search being rejected
 
 ```md
 ![Tutorial screen](screenshots/tutorial.png)
