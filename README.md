@@ -1,6 +1,6 @@
-# 🚀 [Tips Hindawi](https://www.tipshindawi.com/) Internship (August–October) 2026
+# 🚀 [Tips Hindawi](https://tipshindawi.com/) Internship (August–October) 2026
 
-> 🎓 This project was built during the [ **Tips Hindawi** ](https://www.tipshindawi.com/) **Internship (August–October) 2026**.
+> 🎓 This project was built during the [ **Tips Hindawi** ](https://tipshindawi.com/) **Internship (August–October) 2026**.
 
 ## 👤 Participant
 
