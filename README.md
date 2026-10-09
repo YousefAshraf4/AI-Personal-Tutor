@@ -21,6 +21,8 @@
 
 Everything runs with open-source models served locally through Hugging Face, so no paid API is required. The app is built with Streamlit and is designed to run in a Kaggle notebook, exposed through an ngrok public URL.
 
+A key design goal is **grounded answers**: if you search for a topic that is not in the uploaded document, the tutor says so instead of answering from the model's general knowledge.
+
 ---
 
 # ✨ Features
