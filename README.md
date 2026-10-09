@@ -1,3 +1,11 @@
+# 📖 Project Overview
+
+**AI Personal Tutor** is a Retrieval-Augmented Generation (RAG) study assistant that turns your own lecture notes into an interactive learning session. You upload a PDF, type a topic, and the tutor teaches you that topic **using only the content of your document**: a clear explanation, a real-world example, and a multiple-choice quiz to check your understanding.
+
+Everything runs with open-source models served locally through Hugging Face, so no paid API is required. The app is built with Streamlit and is designed to run in a Kaggle notebook, exposed through an ngrok public URL.
+
+---
+
 # 🚀 [Tips Hindawi](https://www.tipshindawi.com/) Internship (August–October) 2026
 
 > 🎓 This project was built during the [ **Tips Hindawi** ](https://www.tipshindawi.com/) **Internship (August–October) 2026**.
@@ -12,14 +20,6 @@
 | Internship Batch | August–October 2026                  |
 | Training Program | Large Language Models (LLMs) Program |
 | Organization     | [**Edrak for Ai**](https://edrak4ai.com/en)                         |
-
----
-
-# 📖 Project Overview
-
-**AI Personal Tutor** is a Retrieval-Augmented Generation (RAG) study assistant that turns your own lecture notes into an interactive learning session. You upload a PDF, type a topic, and the tutor teaches you that topic **using only the content of your document**: a clear explanation, a real-world example, and a multiple-choice quiz to check your understanding.
-
-Everything runs with open-source models served locally through Hugging Face, so no paid API is required. The app is built with Streamlit and is designed to run in a Kaggle notebook, exposed through an ngrok public URL.
 
 ---
 
