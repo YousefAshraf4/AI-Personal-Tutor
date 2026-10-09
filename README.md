@@ -125,11 +125,11 @@ Add your screenshots or demo video here, for example:
 
 # 📚 About the Internship
 
-This project was developed as part of the [**Tips Hindawi**](https://www.tipshindawi.com/) **Internship (August–October) 2026**, and it will be showcased on the official [Tips Hindawi](https://www.tipshindawi.com/) website.
+This project was developed as part of the [**Tips Hindawi**](https://tipshindawi.com/) **Internship (August–October) 2026**, and it will be showcased on the official [Tips Hindawi](https://tipshindawi.com/) website.
 
-[Tips Hindawi](https://www.tipshindawi.com/) is the internships department of [**Edrak for Ai**](https://edrak4ai.com/en), and the internship encourages participants to build real-world projects, apply practical skills, and showcase their work through GitHub.
+[Tips Hindawi](https://tipshindawi.com/) is the internships department of [**Edrak for Ai**](https://edrak4ai.com/en), and the internship encourages participants to build real-world projects, apply practical skills, and showcase their work through GitHub.
 
-For more information about the internship, training programs, and upcoming batches, visit the official [Tips Hindawi](https://www.tipshindawi.com/) website.
+For more information about the internship, training programs, and upcoming batches, visit the official [Tips Hindawi](https://tipshindawi.com/) website.
 
 ---
 
